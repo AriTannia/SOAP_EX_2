@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB217864-B2F7-45DF-AA03-83B9F83F4713}|WorldSOAPService\\WorldSOAPService.csproj|c:\\users\\84967\\onedrive\\m\u00E1y t\u00EDnh\\c\\thaytuan_qaqc\\24_10_24\\worldsoapservice\\worldsoapservice\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB217864-B2F7-45DF-AA03-83B9F83F4713}|WorldSOAPService\\WorldSOAPService.csproj|solutionrelative:worldsoapservice\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB217864-B2F7-45DF-AA03-83B9F83F4713}|WorldSOAPService\\WorldSOAPService.csproj|c:\\users\\84967\\onedrive\\m\u00E1y t\u00EDnh\\c\\thaytuan_qaqc\\24_10_24\\worldsoapservice\\worldsoapservice\\datalayer\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB217864-B2F7-45DF-AA03-83B9F83F4713}|WorldSOAPService\\WorldSOAPService.csproj|solutionrelative:worldsoapservice\\datalayer\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB217864-B2F7-45DF-AA03-83B9F83F4713}|WorldSOAPService\\WorldSOAPService.csproj|c:\\users\\84967\\onedrive\\m\u00E1y t\u00EDnh\\c\\thaytuan_qaqc\\24_10_24\\worldsoapservice\\worldsoapservice\\datalayer\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB217864-B2F7-45DF-AA03-83B9F83F4713}|WorldSOAPService\\WorldSOAPService.csproj|solutionrelative:worldsoapservice\\datalayer\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB217864-B2F7-45DF-AA03-83B9F83F4713}|WorldSOAPService\\WorldSOAPService.csproj|c:\\users\\84967\\onedrive\\m\u00E1y t\u00EDnh\\c\\thaytuan_qaqc\\24_10_24\\worldsoapservice\\worldsoapservice\\datalayer\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB217864-B2F7-45DF-AA03-83B9F83F4713}|WorldSOAPService\\WorldSOAPService.csproj|solutionrelative:worldsoapservice\\datalayer\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 343,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\WorldSOAPService\\DataLayer\\Models\\City.cs",
+              "RelativeDocumentMoniker": "WorldSOAPService\\DataLayer\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\WorldSOAPService\\DataLayer\\Models\\City.cs",
+              "RelativeToolTip": "WorldSOAPService\\DataLayer\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:45:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseAccess.cs",
+              "DocumentMoniker": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\WorldSOAPService\\DataLayer\\DatabaseAccess.cs",
+              "RelativeDocumentMoniker": "WorldSOAPService\\DataLayer\\DatabaseAccess.cs",
+              "ToolTip": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\WorldSOAPService\\DataLayer\\DatabaseAccess.cs",
+              "RelativeToolTip": "WorldSOAPService\\DataLayer\\DatabaseAccess.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwIAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:46:33.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\WorldSOAPService\\DataLayer\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "WorldSOAPService\\DataLayer\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\WorldSOAPService\\DataLayer\\Models\\Country.cs",
+              "RelativeToolTip": "WorldSOAPService\\DataLayer\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:46:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\WorldSOAPService\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "WorldSOAPService\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPService\\WorldSOAPService\\WebService1.asmx.cs",
+              "RelativeToolTip": "WorldSOAPService\\WebService1.asmx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:19:14.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

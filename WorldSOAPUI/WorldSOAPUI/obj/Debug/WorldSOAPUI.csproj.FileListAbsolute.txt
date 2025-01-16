@@ -1,0 +1,10 @@
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\obj\Debug\WorldSOAPUI.csproj.AssemblyReference.cache
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\obj\Debug\WorldSOAPUI.Form1.resources
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\obj\Debug\WorldSOAPUI.Properties.Resources.resources
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\obj\Debug\WorldSOAPUI.csproj.GenerateResource.cache
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\obj\Debug\WorldSOAPUI.csproj.CoreCompileInputs.cache
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\bin\Debug\WorldSOAPUI.exe.config
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\bin\Debug\WorldSOAPUI.exe
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\bin\Debug\WorldSOAPUI.pdb
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\obj\Debug\WorldSOAPUI.exe
+C:\Users\84967\OneDrive\Máy tính\C\ThayTuan_QAQC\24_10_24\WorldSOAPUI\WorldSOAPUI\obj\Debug\WorldSOAPUI.pdb

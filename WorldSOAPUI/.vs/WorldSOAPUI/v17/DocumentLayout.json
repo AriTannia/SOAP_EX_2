@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1A0102-F4AE-4280-8C0B-E22960856675}|WorldSOAPUI\\WorldSOAPUI.csproj|c:\\users\\84967\\onedrive\\m\u00E1y t\u00EDnh\\c\\thaytuan_qaqc\\24_10_24\\worldsoapui\\worldsoapui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1A0102-F4AE-4280-8C0B-E22960856675}|WorldSOAPUI\\WorldSOAPUI.csproj|solutionrelative:worldsoapui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1A0102-F4AE-4280-8C0B-E22960856675}|WorldSOAPUI\\WorldSOAPUI.csproj|C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\worldsoapui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A1A0102-F4AE-4280-8C0B-E22960856675}|WorldSOAPUI\\WorldSOAPUI.csproj|solutionrelative:worldsoapui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1A0102-F4AE-4280-8C0B-E22960856675}|WorldSOAPUI\\WorldSOAPUI.csproj|C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\worldsoapui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1A0102-F4AE-4280-8C0B-E22960856675}|WorldSOAPUI\\WorldSOAPUI.csproj|solutionrelative:worldsoapui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 343,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\WorldSOAPUI\\Form1.cs",
+              "RelativeDocumentMoniker": "WorldSOAPUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\WorldSOAPUI\\Form1.cs",
+              "RelativeToolTip": "WorldSOAPUI\\Form1.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAwwM4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:47:30.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\WorldSOAPUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WorldSOAPUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\WorldSOAPUI\\Form1.Designer.cs",
+              "RelativeToolTip": "WorldSOAPUI\\Form1.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:30:11.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\WorldSOAPUI\\Form1.cs",
+              "RelativeDocumentMoniker": "WorldSOAPUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\84967\\OneDrive\\M\u00E1y t\u00EDnh\\C\\ThayTuan_QAQC\\24_10_24\\WorldSOAPUI\\WorldSOAPUI\\Form1.cs [Design]",
+              "RelativeToolTip": "WorldSOAPUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:28:35.839Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
