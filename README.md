@@ -50,8 +50,6 @@ Hiển thị kết quả truy vấn dưới dạng bảng.
 ---
 
 ## Hướng dẫn kết nối WorldSOAPUI với WorldSOAPService 
-
-### Bước 1: Thêm tham chiếu dịch vụ
 #### 1. Nhấp chuột phải vào dự án **WorldSOAPUI** trong **Solution Explorer**.
 #### 2. Chọn **Add** > **Service Reference**.
 #### 3. Trong cửa sổ mới, chọn **Advanced** ở góc dưới cùng.
@@ -73,6 +71,48 @@ Hiển thị kết quả truy vấn dưới dạng bảng.
 
 ---
 
+## Kết quả đạt được
+Sau khi triển khai `WorldSOAPService` và `WorldSOAPUI`, các chức năng chính của hệ thống đã hoạt động đầy đủ và hiệu quả. Dưới đây là những kết quả cụ thể:
+
+### 1. Giao diện người dùng trực quan (UI)
+- Giao diện ứng dụng WorldSOAPUI được thiết kế thân thiện, dễ sử dụng, với các chức năng chính được phân bố rõ ràng:
+   - Country Code: Nhập mã quốc gia để tìm kiếm thông tin chi tiết.
+   - City Name: Nhập tên thành phố để tra cứu thông tin.
+   - Các nút chức năng được sắp xếp logic:
+      ```csharp 
+      Get Country Info, Get Population, Get Cities by Country, Get City by Name, và Get All Countries.
+      ```
+
+### 2. Chức năng hoạt động chính xác
+- Lấy danh sách tất cả quốc gia:
+   - Khi nhấn nút Get All Countries, ứng dụng hiển thị đầy đủ danh sách tất cả các quốc gia trong DataGridView với các cột:
+      ```csharp
+      Code, Name, Continent, Region, Surface Area, Independence Year, Population, Life Expectancy, GNP, Local Name, Government Form, Head of State, Capital, và Code2.
+      ```
+   - Dữ liệu hiển thị theo định dạng bảng giúp dễ dàng theo dõi và sắp xếp thông tin.
+- Tìm kiếm thông tin quốc gia theo mã (Country Code):
+   - Khi nhập mã quốc gia vào ô Country Code và nhấn Get Country Info, ứng dụng hiển thị thông tin chi tiết của quốc gia tương ứng trong DataGridView với các cột:
+      ```csharp 
+      Code, Name, Continent, Region, và Population.
+      ```
+- Tra cứu thông tin thành phố theo tên:
+   - Khi nhập tên thành phố vào ô City Name và nhấn Get City by Name, ứng dụng hiển thị thông tin chi tiết của thành phố trong DataGridView, bao gồm các cột:
+      ```csharp
+      ID, Name, Country Code, District, và Population.
+      ```
+- Lấy danh sách các thành phố của một quốc gia:
+   - Khi nhập mã quốc gia vào ô Country Code và nhấn Get Cities by Country, ứng dụng hiển thị danh sách tất cả các thành phố thuộc quốc gia đó trong DataGridView, với các cột:
+      ```csharp
+      ID, Name, Country Code, District, và Population.
+      ```
+- Lấy dân số của quốc gia:
+   - Khi nhập mã quốc gia vào ô Country Code và nhấn Get Population, ứng dụng hiển thị dân số của quốc gia trong DataGridView với các cột:
+      ```csharp
+      Country Code, Population.
+      ```
+### 3. Hiển thị dữ liệu rõ ràng, có xử lý lỗi
+- DataGridView hiển thị dữ liệu rõ ràng, có cột và hàng được định dạng hợp lý.
+- Ứng dụng có xử lý ngoại lệ (exception handling) để đảm bảo không bị lỗi khi nhập dữ liệu sai hoặc không tìm thấy thông tin.
 ## Yêu cầu hệ thống
 - Hệ điều hành Windows với .NET Framework 4.7 hoặc mới hơn.
 - Dịch vụ **WorldSOAPService** đang hoạt động và có thể truy cập.
